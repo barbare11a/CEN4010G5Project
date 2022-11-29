@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="final" />
         <module name="accessing-data-mysql-complete" />
+        <module name="CEN4010G5Project" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CEN4010G5Project" options="-parameters" />
       <module name="accessing-data-mysql-complete" options="-parameters" />
       <module name="final" options="-parameters" />
     </option>
