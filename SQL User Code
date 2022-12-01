@@ -1,0 +1,28 @@
+CREATE TABLE User (
+	id INT,
+	firstname VARCHAR(50) NOT NULL,
+	lastname VARCHAR(50) NOT NULL,
+	username VARCHAR(50) NOT NULL,
+	password VARCHAR(50) NOT NULL,
+	email VARCHAR(50) NOT NULL,
+	number VARCHAR(50) NOT NULL,
+	street VARCHAR(50) NOT NULL,
+	zip VARCHAR(50) NOT NULL,
+	cctype VARCHAR(50), 
+	ccnumber VARCHAR(50) 
+);
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (1, 'Ivonne', 'De Caville', 'idecaville0', 'GhEhma6', 'idecaville0@globo.com', '637', 'Lotheville', '83953', 'visa', '4017953677667696');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (2, 'Abigail', 'Gomez', 'agomez1', 'oYl2MHGVg', 'agomez1@cnn.com', '921', 'Shopko', '662360', 'discover', '3542877849686399');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (3, 'Estel', 'Estrada', 'estrada2', '1yHA60ThR', 'eestrada2@netvibes.com', '753', 'Bashford', 33411, 'discover', '3587720012381040');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (4, 'Lazlo', 'Torres', 'ltorres3', 'ayVhGuPs7B', 'ltorres3@google.ca', '98', 'Marquette', 33414, 'amex', '6333655028228140644');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (5, 'Margery', 'Cromwell', 'mcromwell4', 'aKvJ32', 'mcromwell4@github.io', '86721', 'Westport', 33401, 'visa', '3555964889479747');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (6, 'Ivan', 'Boomes', 'iboomes5', 'GmKa3xh', 'iboomes5@com.com', '5640', 'Elgar', 33407, 'amex', '6759891416109254826');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (7, 'Esteban', 'Buckby', 'ebuckby6', 'xbCWIcWxQgN', 'ebuckby6@list-manage.com', '384', 'Karstens', '25907', 'visa', '4705614559045');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (8, 'Pamela', 'Kierans', 'pkierans7', 'URu168f', 'pkierans7@github.com', '75', 'Ridgeview', '95912', 'mastercard', '5007664033301917');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (9, 'Amandie', 'Coggon', 'acoggon8', 'gt9ijXKPcA', 'acoggon8@freewebs.com', '37317', 'Westerfield', 33401, 'amex', '3565685816051386');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (10, 'Walter', 'Backson', 'wbackson9', '4I0qGa1mMOw', 'wbackson9@exblog.jp', '1', 'Algoma', '3505-318', 'visa', '3555467771869892');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (11, 'Tyson', 'Bassick', 'tbassicka', 'I9iDdsrhB', 'tbassicka@mac.com', '134', 'Calypso', '09013', 'discover', '3556578471366549');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (12, 'Elga', 'Fawlks', 'efawlksb', 'Miy2q7zjvs', 'efawlksb@wikispaces.com', '3238', 'Becker', 33009, 'discover', '36868300912449');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (13, 'Elliot', 'Meneo', 'emeneoc', 'K6eLsl8tIm', 'emeneoc@ted.com', '665', 'Scofield', 33409, 'visa', '3533827904436967');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (14, 'Darcy', 'Shaw', 'dshawd', 'OmgkJuc', 'dshawd@usatoday.com', '20415', 'Kings', '48321', 'diners-club-enroute', '201523191566718');
+insert into User (id, firstname, lastname, username, password, email, number, street, zip, cctype, ccnumber) values (15, 'Gwen', 'McFee', 'gmcfeee', '6f69bjBLu6hx', 'gmcfeee@weebly.com', '0511', 'Haas', '3865', 'mastercard', '5241674636998726');
