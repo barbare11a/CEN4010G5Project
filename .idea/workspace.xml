@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b0aa28-1e1a-440b-9a44-787a2acc5619" name="Changes" comment="Testing 2" />
+    <list default="true" id="52b0aa28-1e1a-440b-9a44-787a2acc5619" name="Changes" comment="Testing 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WishList/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,9 +48,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.idea/src" />
-      <recent name="$PROJECT_DIR$/.idea" />
       <recent name="$PROJECT_DIR$/WishList/.idea" />
       <recent name="$PROJECT_DIR$/.idea/WishList" />
     </key>
@@ -99,7 +101,7 @@
       <workItem from="1669954126619" duration="3940000" />
       <workItem from="1669958196130" duration="353000" />
       <workItem from="1669959566044" duration="654000" />
-      <workItem from="1669960329265" duration="318000" />
+      <workItem from="1669960329265" duration="780000" />
     </task>
     <task id="LOCAL-00001" summary="Here ya go">
       <created>1667873067863</created>
@@ -283,7 +285,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669960425025</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Testing 2">
+      <created>1669961029805</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1669961029805</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Testing 2">
+      <created>1669961053780</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1669961053780</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
