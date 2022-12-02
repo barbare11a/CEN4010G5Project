@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b0aa28-1e1a-440b-9a44-787a2acc5619" name="Changes" comment="Testing 2" />
+    <list default="true" id="52b0aa28-1e1a-440b-9a44-787a2acc5619" name="Changes" comment="Testing 2">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WishList/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WishList/mvnw.cmd" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +35,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -99,6 +103,7 @@
       <workItem from="1669953415210" duration="230000" />
       <workItem from="1669954126619" duration="3940000" />
       <workItem from="1669958196130" duration="353000" />
+      <workItem from="1669959566044" duration="654000" />
     </task>
     <task id="LOCAL-00001" summary="Here ya go">
       <created>1667873067863</created>
@@ -268,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669957688710</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Testing 2">
+      <created>1669959780146</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669959780146</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +335,8 @@
     <MESSAGE value="Here ya go 2" />
     <MESSAGE value="Here ya go 3" />
     <MESSAGE value="Testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
+    <MESSAGE value="Testing 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
